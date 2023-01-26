@@ -1,0 +1,9 @@
+Soit la classe Enfant avec les propriétés nom, prenom, âge et taille.
+
+1.Ecrire le code de création de la classe,
+
+2.Ajouter la propriété siBasKetBalleur qui ne figure pas dans le constructeur. Elle prend true si la taille de l’enfant est supérieure à 150cm et son âge est supérieur à 5ans ,
+
+3.Ajouter un bloc d’initialisation qui affiche le nom, le prenom, l’age de l’enfant avec, en plus, un message « est dans l’equipe de basket ball » si isBasketBalleur est à true et « ne peut pas encore jouer le basket ball » sinon,
+
+Dans le programme principal, créer deux enfants e1 et e2 afin de tester le fonctionnement de la classe

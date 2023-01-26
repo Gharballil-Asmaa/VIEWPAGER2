@@ -1,0 +1,1 @@
+Data class = class fster wahd
